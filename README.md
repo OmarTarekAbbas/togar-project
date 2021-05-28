@@ -18,8 +18,6 @@ Install dependencies
 
 `composer install`
 
-`yarn install`
-
 Generate a new key for your app
 
 `php artisan key:generate`
